@@ -12,13 +12,14 @@ This project demonstrates how polynomial feature transformation enhances the per
 
 ## 🔍 Workflow
 
-1. Data Loading and Exploration  
-2. Visualization of feature-target relationship  
-3. Linear Regression (baseline model)  
-4. Polynomial Feature Transformation  
-5. Model Training and Prediction  
-6. Visualization of Polynomial Fit  
-7. Model Evaluation  
+1. Synthetic Data Generation using NumPy
+2. Data Exploration and Understanding  
+3. Visualization of feature-target relationship  
+4. Linear Regression (baseline model)  
+5. Polynomial Feature Transformation  
+6. Model Training and Prediction  
+7. Visualization of Polynomial Fit  
+8. Model Evaluation  
 
 ---
 
